@@ -1,4 +1,4 @@
-# SpringMvcIntegrationXmlBased
+# Spring3MvcIntegrationXmlBased
 
 * Spring-3 + MVC + XML Configuration + Maven, Example
 * Template example for Spring 4 MVC + JSP View with pure XML Configuration (no Java), using Maven build tool.
